@@ -1,0 +1,23 @@
+bibentry(
+  bibtype = "Manual",
+  title = "BioGraphR: Build Biological Knowledge Graphs from Public Databases",
+  author = person("Himanshu", "Bhandary"),
+  year = "2026",
+  note = "R package version 0.99.0",
+  url = "https://github.com/BDB-Genomics/BioGraphR"
+)
+
+bibentry(
+  bibtype = "Article",
+  title = "BioGraphR: A Unified Framework for Biological Knowledge Graph Construction in R",
+  author = c(
+    person("Himanshu", "Bhandary"),
+    person("BDB-Genomics", "Team")
+  ),
+  journal = "",
+  year = "",
+  volume = "",
+  number = "",
+  pages = "",
+  doi = ""
+)
